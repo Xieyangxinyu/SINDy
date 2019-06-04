@@ -38,7 +38,7 @@ References
   - Mangan, N. M., Kutz, J. N., Brunton, S. L., & Proctor, J. L. (2017). Model selection for dynamical systems via sparse regression and information criteria. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 473(2204), 20170009.
   - Scikit-Learn: Machine learning in Python - scikit-learn 0.16.1 documentation. Retrieved from https://scikit-learn.org/
   
-   [Yangxinyu's Notes on Regression]: <https://github.com/Xieyangxinyu/Xieyangxinyu.github.io/raw/master/File/Notes\%20on\%20Regression.pdf}{Notes on Regression>
+   [Yangxinyu's Notes on Regression]: <https://github.com/Xieyangxinyu/Xieyangxinyu.github.io/raw/master/File/Notes\%20on\%20Regression.pdf>
    [Chapter 3, Hastie, Tibshirani and Friedman (2009)]: <https://web.stanford.edu/~hastie/ElemStatLearn/>
    [Brunton, Proctor, and Kutz (2016)]: <https://www.pnas.org/content/113/15/3932>
    [Mangan, Kutz, Brunton and Proctor (2017)]: <https://arxiv.org/abs/1701.01773>
