@@ -2,7 +2,7 @@
 
 ## SAMSI Undergraduate Modeling Workshop, May 2019
 
-### 
+### Dr. John Nardini, Allison Duprey, Fanuel Sisay, Natasha Stewart, and Yangxinyu Xie
 
 Goal
 -----------------------------------------------------------------------------------------
@@ -43,3 +43,4 @@ References
    [Brunton, Proctor, and Kutz (2016)]: <https://www.pnas.org/content/113/15/3932>
    [Mangan, Kutz, Brunton and Proctor (2017)]: <https://arxiv.org/abs/1701.01773>
    [Meinshausen (2007)]: <https://www.sciencedirect.com/science/article/pii/S0167947306004956>
+   [Duprey, Sisay, Stewart, and Xie (2019)]: <https://github.com/Xieyangxinyu/SINDy/blob/master/ODE_Sampling_Group_Final%20Presentation.pdf>
