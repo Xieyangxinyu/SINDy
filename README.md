@@ -1,4 +1,4 @@
-# Alone the SINDy Frontier
+# Along the SINDy Frontier
 
 ## SAMSI Undergraduate Modeling Workshop, May 2019
 
